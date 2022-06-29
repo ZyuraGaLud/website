@@ -32,19 +32,19 @@
       <div>
         1.内容<br>
         スクラッチを使って線を書くプログラムを書いた。<br>
-        2.感想<br>
+        2.感想<br＞
         色々なやり方があって面白かった。<br>
       </div>
     </div>
 
     <div>
       <h3>1-2 ゲーム</h3>
-      <img src="game.png" alt="ゲーム" width="50%" height="50%">
+      <img src="game.png" alt="ゲーム" width="30%" height="30%">
       <div>
         1.内容<br>
-        ないようないよう<br>
+        ネコの移動や落下物の位置や速さをscratchを活用してゲームを作る。<br>
         2.感想<br>
-        かんそうかんそう<br>        
+        scratchの基本的な事柄を用いて行うことだったが、案外難しかった。<br>        
       </div>
     </div>
 
@@ -52,11 +52,12 @@
       <h3>1-3 ホームページ作成</h3>
       <div>
         <!-- 自分のホームページのURLに置き替える↓ -->
-        <a href="https://tmhrdoi.github.io/website/">私のホームページ</a><br>
+        <a href=https://zyuragalud.github.io/website/>私のホームページ</a><br>
         1.内容<br>
-        ないようないよう<br>
+        git.hubを用いて自分オリジナルのホームページを作る。＜br＞
+       
         2.感想<br>
-        かんそうかんそう<br>        
+        ホームページを作る上でなかなかに大変な手順を踏まなければならず、１歩間違えると全消しになるような難しいものだと分かった。<br>        
       </div>      
     </div>
     
